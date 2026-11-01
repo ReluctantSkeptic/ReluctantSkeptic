@@ -6,7 +6,7 @@ I'm a data engineer and a dad of three. In my spare time I build small, free too
 
 - **[PregNut](https://pregnut.com)**: pregnancy nutrition guidance, weekly nutrient targets and 100-gram food comparisons backed by trusted sources.
 - **[WiseTube](https://wisetube.yuriystasyuk.com)**: a free YouTube alternative for kids 4+ with hand-picked videos, no suggestions, Shorts or autoplay, and PIN parent controls.
-- **[Elemon](https://elemon.yuriystasyuk.com)**: a free periodic table card game for kids. All 118 elements are monster cards, and every move is a real science fact.
+- **[Elemon](https://elemon.win)**: a free periodic table card game for kids. All 118 elements are monster cards, and every move is a real science fact.
 - **[Cover Styles](https://covers.yuriystasyuk.com)**: a free library of 240+ real book cover styles, each with reference covers and a ready-made AI prompt.
 - **[DadSchool](https://dadschool.yuriystasyuk.com)**: a calm home-learning app for grades 1–5. Kids earn their screen time by learning first.
 - **[Mossbound](https://mossbound.yuriystasyuk.com)**: a free pixel-art math adventure for ages 7–11. Answer multiplication, division and fraction questions to cast spells.
